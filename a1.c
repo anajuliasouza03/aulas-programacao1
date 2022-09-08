@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    int dia, mes, ano;
+    int dia, mes, ano; 
     char nome[10];
 
     printf("entre com o dia:\n>> ");
